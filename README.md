@@ -1,2 +1,2 @@
 # gpt-discord
-GPT-DISCORD
+Node.js script for discord bot with GPT.
